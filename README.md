@@ -1,7 +1,7 @@
-# historian.js
-A tracking js-library
+# hiyon.js
+A logging js-library
 
-Historiyon is my first library project dedicated to those who want to understand their users better. It helps to track 
+Hiyon is my first library project dedicated to those who want to understand their users better. It helps to track 
 what users are doing on your website, where they click, how often, on which element they click and more. I partly used code
 from StackOverflow or W3Schools, but want to improve it day by day and replace it with own code.
 
